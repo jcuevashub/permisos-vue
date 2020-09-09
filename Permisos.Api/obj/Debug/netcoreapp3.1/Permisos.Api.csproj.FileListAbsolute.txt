@@ -130,70 +130,143 @@
 /Users/jacksoncuevas/permisos/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.dll
 /Users/jacksoncuevas/permisos/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.pdb
 /Users/jacksoncuevas/permisos/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.genruntimeconfig.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.pdb
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Permisos.Api.exe
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Permisos.Api.deps.json
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Permisos.Api.runtimeconfig.json
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Permisos.Api.runtimeconfig.dev.json
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Permisos.Api.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Permisos.Api.pdb
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Boundaries.Persistence.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Core.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Boundaries.Persistence.pdb
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\bin\Debug\netcoreapp3.1\Core.pdb
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.csprojAssemblyReference.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.AssemblyInfoInputs.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.AssemblyInfo.cs
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.csproj.CoreCompileInputs.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.RazorTargetAssemblyInfo.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.csproj.CopyComplete
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\staticwebassets\Permisos.Api.StaticWebAssets.Manifest.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\staticwebassets\Permisos.Api.StaticWebAssets.xml
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Permisos.Api\obj\Debug\netcoreapp3.1\Permisos.Api.genruntimeconfig.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.pdb
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.exe
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.deps.json
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.runtimeconfig.json
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.runtimeconfig.dev.json
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.pdb
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/AutoMapper.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Boundaries.Persistence.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Core.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Boundaries.Persistence.pdb
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Core.pdb
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.csprojAssemblyReference.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.AssemblyInfoInputs.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.AssemblyInfo.cs
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.csproj.CoreCompileInputs.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.RazorTargetAssemblyInfo.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.csproj.CopyComplete
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/staticwebassets/Permisos.Api.StaticWebAssets.Manifest.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/staticwebassets/Permisos.Api.StaticWebAssets.xml
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.genruntimeconfig.cache
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.deps.json
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.runtimeconfig.json
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.runtimeconfig.dev.json
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Permisos.Api.pdb
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Boundaries.Persistence.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Core.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Boundaries.Persistence.pdb
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.csprojAssemblyReference.cache
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.AssemblyInfoInputs.cache
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.AssemblyInfo.cs
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.csproj.CoreCompileInputs.cache
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.RazorTargetAssemblyInfo.cache
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.csproj.CopyComplete
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/staticwebassets/Permisos.Api.StaticWebAssets.Manifest.cache
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/staticwebassets/Permisos.Api.StaticWebAssets.xml
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.pdb
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/obj/Debug/netcoreapp3.1/Permisos.Api.genruntimeconfig.cache
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/jacksoncuevas/permisos-vue/Permisos.Api/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll

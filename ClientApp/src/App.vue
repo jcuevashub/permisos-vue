@@ -4,7 +4,20 @@
       <b-navbar toggleable="md" type="light" variant="light">
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
         <b-navbar-brand to="/">Permisos</b-navbar-brand>
-        <b-collapse is-nav id="nav-collapse"> </b-collapse>
+        <b-collapse is-nav id="nav-collapse">
+          <b-navbar-nav>
+            <b-nav-item to="/create-permisos">Create</b-nav-item>
+            <b-nav-item
+              href="/create-permisos"
+              @click.prevent="login"
+              v-if="!user"
+              >Login</b-nav-item
+            >
+            <b-nav-item href="#" @click.prevent="logout" v-else
+              >Logout</b-nav-item
+            >
+          </b-navbar-nav>
+        </b-collapse>
       </b-navbar>
     </header>
     <main>

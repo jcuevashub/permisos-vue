@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj": {}
+    "/Users/jacksoncuevas/permisos-vue/Core/Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj": {
+    "/Users/jacksoncuevas/permisos-vue/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj",
+        "projectUniqueName": "/Users/jacksoncuevas/permisos-vue/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\obj\\",
+        "projectPath": "/Users/jacksoncuevas/permisos-vue/Core/Core.csproj",
+        "packagesPath": "/Users/jacksoncuevas/.nuget/packages/",
+        "outputPath": "/Users/jacksoncuevas/permisos-vue/Core/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jackson Cuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jacksoncuevas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +64,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
         }
       }
     }

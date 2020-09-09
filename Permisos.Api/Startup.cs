@@ -44,21 +44,6 @@ namespace Permisos.Api
             services.AddDbContext<PermisoDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
-
-        public void ConfigureCors(IServiceCollection services)
-        {
-            services.AddCors(options =>
-            {
-                options.AddPolicy("CorsPolicy",
-                    builder => builder.AllowAnyOrigin()
-                    .AllowAnyMethod()
-                    .AllowAnyHeader()
-                    .AllowCredentials()
-                    .WithOrigins("http://localhost:8080")
-                );
-            });
-        }
-
         public void ConfigureRepositories(IServiceCollection services)
         {
             services.AddScoped<IPermisoRepository, PermisoRepository>();
@@ -95,13 +80,10 @@ namespace Permisos.Api
                 app.UseDeveloperExceptionPage();
             }
 
-            // app.UseHttpsRedirection();
-
             app.UseRouting();
 
-
             app.UseAuthorization();
-            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            app.UseCors(x => x.AllowAnyMethod().AllowCredentials().AllowAnyHeader().WithOrigins("http://localhost:8080"));
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

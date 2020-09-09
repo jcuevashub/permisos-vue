@@ -48,19 +48,42 @@
         <b-card
           :title="model.id ? 'Editar permiso:' + model.id : 'Nuevo permiso'"
         >
-          <form @submit.prevent="createPermisoRecord">
-            <b-form-group label="Nombre">
-              <b-form-input
-                type="text"
-                v-model="model.employeeName"
-              ></b-form-input>
+          <form @submit.prevent="submit">
+            <b-form-group label="First Name">
+              <div
+                class="form-group"
+                :class="{ 'form-group--error': $v.employeeName.$error }"
+              >
+                <input
+                  v-model="model.employeeName"
+                  class="form-control"
+                  v-model.trim="$v.employeeName.$model"
+                />
+              </div>
+              <div class="error" v-if="!$v.employeeName.minLength">
+                First Name must have at least
+                {{ $v.employeeName.$params.minLength.min }} letters.
+              </div>
             </b-form-group>
-            <b-form-group label="Apellido">
-              <b-form-input
-                type="text"
-                v-model="model.employeeLastName"
-              ></b-form-input>
+
+            <b-form-group label="Last Name">
+              <div
+                class="form-group"
+                :class="{ 'orm-control--error': $v.employeeLastName.$error }"
+              >
+                <input
+                  v-model="model.employeeLastName"
+                  class="form-control"
+                  v-model.trim="$v.employeeLastName.$model"
+                />
+              </div>
+
+              <div class="error" v-if="!$v.employeeLastName.minLength">
+                Last Name must have at least
+                {{ $v.employeeLastName.$params.minLength.min }} letters.
+              </div>
             </b-form-group>
+
             <b-form-group label="Tipo de Permiso">
               <select v-model="model.TipoPermisoId" class="form-control">
                 <option disabled value="" selected="selected"
@@ -83,8 +106,22 @@
               ></b-form-input>
             </b-form-group>
             <div>
-              <b-btn type="submit" variant="success">Save Record</b-btn>
+              <b-btn
+                class="button"
+                type="submit"
+                variant="success"
+                :disabled="submitStatus === 'PENDING'"
+              >
+                Save Record
+              </b-btn>
             </div>
+            <p class="typo__p" v-if="submitStatus === 'OK'">
+              Thanks for your submission!
+            </p>
+            <p class="typo__p" v-if="submitStatus === 'ERROR'">
+              Please fill the form correctly.
+            </p>
+            <p class="typo__p" v-if="submitStatus === 'PENDING'">Sending...</p>
           </form>
         </b-card>
       </b-col>
@@ -94,10 +131,14 @@
 
 <script>
 import api from "@/PermisosApiService";
+import { required, minLength } from "vuelidate/lib/validators";
 
 export default {
   data() {
     return {
+      employeeName: "",
+      employeeLastName: "",
+      submitStatus: null,
       loading: false,
       title: "Lista de Permisos",
       records: [],
@@ -106,12 +147,35 @@ export default {
       permiso: ""
     };
   },
+  validations: {
+    employeeName: {
+      required,
+      minLength: minLength(3)
+    },
+    employeeLastName: {
+      required,
+      minLength: minLength(3)
+    }
+  },
   async created() {
     this.getAll();
     this.getAllPermisos();
   },
 
   methods: {
+    submit() {
+      console.log("submit!");
+      this.$v.$touch();
+      if (this.$v.$invalid) {
+        this.submitStatus = "ERROR";
+      } else {
+        this.createPermisoRecord();
+        this.submitStatus = "PENDING";
+        setTimeout(() => {
+          this.submitStatus = "OK";
+        }, 500);
+      }
+    },
     async getAllPermisos() {
       this.permisos = await api.getAllPermisos();
     },

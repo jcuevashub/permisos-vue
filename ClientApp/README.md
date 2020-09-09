@@ -5,6 +5,11 @@
 ## Build Setup
 
 ```bash
+
+#User Test
+user:74ck502@dev-928406.com
+pass:@Sa123456
+
 # install dependencies
 npm install
 

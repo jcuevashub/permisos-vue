@@ -11,6 +11,7 @@ namespace Permisos.Controllers
     [Route("api/permisos")]
     [Produces("application/json")]
     [ApiController]
+
     public class PermisosController : ControllerBase
     {
 

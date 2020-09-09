@@ -16,12 +16,21 @@
 /Users/jacksoncuevas/permisos/Core/obj/Debug/netstandard2.0/Core.csproj.CoreCompileInputs.cache
 /Users/jacksoncuevas/permisos/Core/obj/Debug/netstandard2.0/Core.dll
 /Users/jacksoncuevas/permisos/Core/obj/Debug/netstandard2.0/Core.pdb
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\obj\Debug\netstandard2.0\Core.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\obj\Debug\netstandard2.0\Core.pdb
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\bin\Debug\netstandard2.0\Core.deps.json
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\bin\Debug\netstandard2.0\Core.dll
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\bin\Debug\netstandard2.0\Core.pdb
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
-C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/obj/Debug/netstandard2.0/Core.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/obj/Debug/netstandard2.0/Core.pdb
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/bin/Debug/netstandard2.0/Core.deps.json
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/bin/Debug/netstandard2.0/Core.dll
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/bin/Debug/netstandard2.0/Core.pdb
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/obj/Debug/netstandard2.0/Core.csprojAssemblyReference.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/obj/Debug/netstandard2.0/Core.AssemblyInfo.cs
+C:/Users/Jackson Cuevas/Documents/GitHub/permisos-vue/Core/obj/Debug/netstandard2.0/Core.csproj.CoreCompileInputs.cache
+/Users/jacksoncuevas/permisos-vue/Core/bin/Debug/netstandard2.0/Core.deps.json
+/Users/jacksoncuevas/permisos-vue/Core/bin/Debug/netstandard2.0/Core.dll
+/Users/jacksoncuevas/permisos-vue/Core/bin/Debug/netstandard2.0/Core.pdb
+/Users/jacksoncuevas/permisos-vue/Core/obj/Debug/netstandard2.0/Core.csprojAssemblyReference.cache
+/Users/jacksoncuevas/permisos-vue/Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
+/Users/jacksoncuevas/permisos-vue/Core/obj/Debug/netstandard2.0/Core.AssemblyInfo.cs
+/Users/jacksoncuevas/permisos-vue/Core/obj/Debug/netstandard2.0/Core.csproj.CoreCompileInputs.cache
+/Users/jacksoncuevas/permisos-vue/Core/obj/Debug/netstandard2.0/Core.dll
+/Users/jacksoncuevas/permisos-vue/Core/obj/Debug/netstandard2.0/Core.pdb
