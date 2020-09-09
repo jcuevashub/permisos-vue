@@ -1,35 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jacksoncuevas/permisos/Boundaries.Persistence/Boundaries.Persistence.csproj": {}
+    "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Boundaries.Persistence\\Boundaries.Persistence.csproj": {}
   },
   "projects": {
-    "/Users/jacksoncuevas/permisos/Boundaries.Persistence/Boundaries.Persistence.csproj": {
+    "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Boundaries.Persistence\\Boundaries.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jacksoncuevas/permisos/Boundaries.Persistence/Boundaries.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Boundaries.Persistence\\Boundaries.Persistence.csproj",
         "projectName": "Boundaries.Persistence",
-        "projectPath": "/Users/jacksoncuevas/permisos/Boundaries.Persistence/Boundaries.Persistence.csproj",
-        "packagesPath": "/Users/jacksoncuevas/.nuget/packages/",
-        "outputPath": "/Users/jacksoncuevas/permisos/Boundaries.Persistence/obj/",
+        "projectPath": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Boundaries.Persistence\\Boundaries.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Boundaries.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/jacksoncuevas/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jackson Cuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/jacksoncuevas/permisos/Core/Core.csproj": {
-                "projectPath": "/Users/jacksoncuevas/permisos/Core/Core.csproj"
+              "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj"
               }
             }
           }
@@ -76,29 +78,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/jacksoncuevas/permisos/Core/Core.csproj": {
+    "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jacksoncuevas/permisos/Core/Core.csproj",
+        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/jacksoncuevas/permisos/Core/Core.csproj",
-        "packagesPath": "/Users/jacksoncuevas/.nuget/packages/",
-        "outputPath": "/Users/jacksoncuevas/permisos/Core/obj/",
+        "projectPath": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jackson Cuevas\\Documents\\GitHub\\permisos-vue\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/jacksoncuevas/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jackson Cuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -140,7 +144,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

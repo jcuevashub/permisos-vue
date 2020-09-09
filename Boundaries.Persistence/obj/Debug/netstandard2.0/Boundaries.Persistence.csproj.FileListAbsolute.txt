@@ -22,3 +22,15 @@
 /Users/jacksoncuevas/permisos/Boundaries.Persistence/obj/Debug/netstandard2.0/Boundaries.Persistence.csproj.CopyComplete
 /Users/jacksoncuevas/permisos/Boundaries.Persistence/obj/Debug/netstandard2.0/Boundaries.Persistence.dll
 /Users/jacksoncuevas/permisos/Boundaries.Persistence/obj/Debug/netstandard2.0/Boundaries.Persistence.pdb
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\obj\Debug\netstandard2.0\Boundaries.Persistence.dll
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\obj\Debug\netstandard2.0\Boundaries.Persistence.pdb
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\bin\Debug\netstandard2.0\Boundaries.Persistence.deps.json
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\bin\Debug\netstandard2.0\Boundaries.Persistence.dll
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\bin\Debug\netstandard2.0\Boundaries.Persistence.pdb
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\obj\Debug\netstandard2.0\Boundaries.Persistence.csprojAssemblyReference.cache
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\obj\Debug\netstandard2.0\Boundaries.Persistence.AssemblyInfoInputs.cache
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\obj\Debug\netstandard2.0\Boundaries.Persistence.AssemblyInfo.cs
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\obj\Debug\netstandard2.0\Boundaries.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Jackson Cuevas\Documents\GitHub\permisos-vue\Boundaries.Persistence\obj\Debug\netstandard2.0\Boundaries.Persistence.csproj.CopyComplete
